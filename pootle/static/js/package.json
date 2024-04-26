@@ -38,7 +38,7 @@
     "stylelint": "^16.4.0",
     "stylelint-config-standard": "^20.0.0",
     "webpack": "4.42.1",
-    "webpack-cli": "3.3.11"
+    "webpack-cli": "3.3.12"
   },
   "dependencies": {
     "autosize": "^3.0.18",
